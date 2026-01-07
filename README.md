@@ -1,3 +1,29 @@
+<p align="center">
+  <h1 align="center">🌐 DomainInfo.site — Website Intelligence & OSINT Tool</h1>
+  <p align="center">
+    Fast • Passive • OSINT • Reconnaissance
+  </p>
+</p>
+
+<p align="center">
+  <a href="https://domaininfo.site/">
+    <img src="https://img.shields.io/badge/🌐%20Website-Live-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/USERNAME/REPOSITORY/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/USERNAME/REPOSITORY/main.yml?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/USERNAME/REPOSITORY/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/USERNAME/REPOSITORY?style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/github/v/release/USERNAME/REPOSITORY?style=for-the-badge" />
+  <a href="https://github.com/USERNAME/REPOSITORY/stargazers">
+    <img src="https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge" />
+  </a>
+</p>
+
+
+---
+
 # 🌐 DomainInfo.site — Website Intelligence & OSINT Tool
 
 **DomainInfo.site** is a fast, lightweight, and privacy-respecting **web-based reconnaissance & OSINT platform** that collects and correlates **publicly available technical information** about domains and websites in a single, easy-to-read report.
