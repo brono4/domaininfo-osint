@@ -1,6 +1,6 @@
 # 🌐 DomainInfo.site — Website Intelligence & OSINT Tool
 
-![DomainInfo.site Preview]([assets/screenshot.png](https://github.com/brono4/domaininfo-osint/blob/main/domaininfo.png)
+![DomainInfo.site Preview](https://github.com/brono4/domaininfo-osint/raw/main/domaininfo.png)
 
 
 [![Website](https://img.shields.io/badge/🔎%20Website-Live-success?logo=google-chrome&style=for-the-badge)](https://domaininfo.site/)
